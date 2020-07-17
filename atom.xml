@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rabt的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://x2rr.github.io/"/>
+  <updated>2020-07-16T10:14:51.609Z</updated>
+  <id>https://x2rr.github.io/</id>
+  
+  <author>
+    <name>Liu Rabt</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写了一个 Chrome 扩展，可以实时查看自选基金的涨跌情况</title>
+    <link href="https://x2rr.github.io/choose-funds/"/>
+    <id>https://x2rr.github.io/choose-funds/</id>
+    <published>2020-07-16T03:00:29.000Z</published>
+    <updated>2020-07-16T10:14:51.609Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;自选基金助手&quot;&gt;&lt;a href=&quot;#自选基金助手&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件工具" scheme="https://x2rr.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Chrome扩展" scheme="https://x2rr.github.io/tags/Chrome%E6%89%A9%E5%B1%95/"/>
+    
+      <category term="基金" scheme="https://x2rr.github.io/tags/%E5%9F%BA%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://x2rr.github.io/hello-world/"/>
+    <id>https://x2rr.github.io/hello-world/</id>
+    <published>2020-07-16T02:17:16.056Z</published>
+    <updated>2020-07-16T02:17:16.056Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
