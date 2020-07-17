@@ -3,11 +3,11 @@
   <title>Rabt的博客</title>
   
   <subtitle>登峰造极境</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://x2rr.github.io/"/>
+  <link href="http://rabt.gitee.io/"/>
   <updated>2020-07-17T08:55:44.298Z</updated>
-  <id>http://x2rr.github.io/</id>
+  <id>http://rabt.gitee.io/</id>
   
   <author>
     <name>Liu Rabt</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>写了一个 Chrome 扩展，可以实时查看自选基金的涨跌情况</title>
-    <link href="http://x2rr.github.io/choose-funds/"/>
-    <id>http://x2rr.github.io/choose-funds/</id>
+    <link href="http://rabt.gitee.io/choose-funds/"/>
+    <id>http://rabt.gitee.io/choose-funds/</id>
     <published>2020-07-16T03:00:29.000Z</published>
     <updated>2020-07-17T08:55:44.298Z</updated>
     
@@ -36,19 +36,19 @@
     </summary>
     
     
-      <category term="软件工具" scheme="http://x2rr.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+      <category term="软件工具" scheme="http://rabt.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Chrome扩展" scheme="http://x2rr.github.io/tags/Chrome%E6%89%A9%E5%B1%95/"/>
+      <category term="Chrome扩展" scheme="http://rabt.gitee.io/tags/Chrome%E6%89%A9%E5%B1%95/"/>
     
-      <category term="基金" scheme="http://x2rr.github.io/tags/%E5%9F%BA%E9%87%91/"/>
+      <category term="基金" scheme="http://rabt.gitee.io/tags/%E5%9F%BA%E9%87%91/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://x2rr.github.io/hello-world/"/>
-    <id>http://x2rr.github.io/hello-world/</id>
+    <link href="http://rabt.gitee.io/hello-world/"/>
+    <id>http://rabt.gitee.io/hello-world/</id>
     <published>2020-07-16T02:17:16.056Z</published>
     <updated>2020-07-16T02:17:16.056Z</updated>
     
